@@ -22,7 +22,10 @@ body {
     
 }
 .cartao__conteudo h3 {
-    background-color: deeppink;
+    background-color: rgba(20, 18, 128, 0.589);
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
 }
 
 
