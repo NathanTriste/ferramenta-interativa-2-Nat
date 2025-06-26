@@ -14,6 +14,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
+    gap: 3rem;
 }
 
 .cartao {
@@ -56,7 +57,7 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    color: var(--card-front-color);
+    color: var(--card-back-color);
     font-weight: 700;
 }
 
