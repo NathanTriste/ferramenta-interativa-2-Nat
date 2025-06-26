@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-back-color: #12ab02dc;
 }
 
 
@@ -45,7 +45,7 @@ body {
 }
 
 .cartao__conteudo__pergunta p {
-    color: var(--text-color);
+    background: url(img/br\ card.jpg);
     font-weight: 500;
 }
 
