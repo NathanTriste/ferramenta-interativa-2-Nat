@@ -1,7 +1,7 @@
 criaCartao(
 'Geografia',
-'Qual país fica Washington?',
-'O país que fica Washington é Estados Unidos'
+'O que foi o mercatilismo?',
+'Foi um conjunto de praticas economicas adotadas pelas mornaquias europeias....'
 )
 
 criaCartao(
